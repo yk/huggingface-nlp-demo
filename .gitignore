@@ -114,3 +114,6 @@ venv.bak/
 *.log
 *.out
 *.synctex.gz
+
+logs
+lightning_logs
